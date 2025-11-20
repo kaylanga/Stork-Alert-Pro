@@ -1,0 +1,5 @@
+{
+  "name": "Stock-Alert Pro",
+  "description": "An inventory checker for Shopify stores that tracks stock levels across fulfillment centers and provides proactive alerts based on sales velocity forecasts to prevent stockouts.",
+  "requestFramePermissions": []
+}
